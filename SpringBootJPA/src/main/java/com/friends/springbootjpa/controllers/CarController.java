@@ -1,4 +1,4 @@
-package com.example.cars.controllers;
+package com.friends.springbootjpa.controllers;
 
 import java.util.HashMap;
 import java.util.List;
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.cars.exceptions.ResourceNotFoundException;
-import com.example.cars.models.Car;
-import com.example.cars.repository.CarRepository;
+import com.friends.springbootjpa.exceptions.ResourceNotFoundException;
+import com.friends.springbootjpa.models.Car;
+import com.friends.springbootjpa.repository.CarRepository;
 
 import io.swagger.annotations.ApiOperation;
 

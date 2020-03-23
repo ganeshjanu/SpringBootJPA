@@ -1,4 +1,4 @@
-package com.example.cars.models;
+package com.friends.springbootjpa.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

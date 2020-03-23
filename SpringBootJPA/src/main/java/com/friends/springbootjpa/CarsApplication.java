@@ -1,4 +1,4 @@
-package com.example.cars;
+package com.friends.springbootjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

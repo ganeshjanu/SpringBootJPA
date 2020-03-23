@@ -1,4 +1,4 @@
-package com.example.cars;
+package com.friends.springbootjpa;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
